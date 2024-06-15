@@ -1,4 +1,5 @@
 *.txt
+!requirements.txt
 .DS_Store
 **/__pycache__
 **/results_backup
