@@ -50,7 +50,7 @@ Please refer to .sh scipts in `exp` folder in each subdirectory of `./src` for e
 
 If you find our code helpful, please consider citing our work
 ```
-@inproceedings{zhao2023glow,
+@inproceedings{zhao2024geomix,
   title={GeoMix: Towards Geometry-Aware Data Augmentation},
   author={Zhao, Wentao and Wu, Qitian and Yang, Chenxiao and Yan, Junchi}
   booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
